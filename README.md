@@ -1,7 +1,5 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hi%2C%20I'm%20Vaishnavi%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%26%20Data%20Engineer&descAlignY=58&descSize=18" alt="header"/>
-</p>
+<h1 align="center">Hi, I'm Vaishnavi 👋</h1>
+<h3 align="center">Aspiring AI &amp; Data Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/Bharambevaish">
@@ -78,19 +76,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharambevaish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharambevaish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Bharambevaish&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bharambevaish&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
-<!-- Snake animation: appears after the "Generate Snake" workflow runs once (Actions tab → Generate Snake → Run workflow) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharambevaish/Bharambevaish/output/github-snake-dark.svg" />
@@ -103,7 +91,3 @@
 ## 🤝 Connect With Me
 
 💬 Happy to talk about **AI, RAG, data analytics** or campus projects. Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-bharambe-646783293/) or at **vaishnavibharambe99@gmail.com**.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer"/>
-</p>
