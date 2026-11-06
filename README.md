@@ -54,6 +54,8 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -63,13 +65,15 @@
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 📄 [**DocuMind – RAG Q&A Assistant**](https://github.com/Bharambevaish/documind-rag) | Ask questions about your own PDFs, TXT or MD files. Answers come only from your documents, with a file and page citation for every fact | Python · ChromaDB · Groq / Ollama · Streamlit |
-| ⚖️ [**AI for Legal Case Outcome Prediction**](https://github.com/Bharambevaish/AI-for-Legal-Case) | Reads Indian court judgment PDFs and predicts the appellate outcome with fine-tuned InLegalBERT, explained with SHAP | InLegalBERT · SHAP · PyMuPDF · Streamlit · Supabase |
-| 💳 [**Fintech Customer Segmentation**](https://github.com/Bharambevaish/Fintech-Customer-Segmentation) | Scores 10,000 bank customers on 7 value dimensions, clusters them into Standard / Silver / Gold / Premium and flags high-potential customers | Pandas · Scikit-learn (K-Means) · Seaborn · Excel |
-| 🛡️ [**Safe Linker – Phishing URL Detector**](https://github.com/Bharambevaish/Safe-Linker-Phishing-Detector) | Real-time phishing URL detection using a soft-voting ensemble of XGBoost and Random Forest over 15+ URL features | XGBoost · Random Forest · Streamlit |
-| 🌾 [**Flour Mill Management System**](https://github.com/Bharambevaish/Flour-Mill-Management-System) | Bilingual (Marathi / English) order, payment and dues manager with an installable customer portal | Web app · PWA |
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| ⚖️ [**AI for Legal Case Outcome Prediction**](https://github.com/Bharambevaish/AI-for-Legal-Case) | Reads Indian court judgment PDFs and predicts the appellate outcome with fine-tuned InLegalBERT, explained with SHAP | InLegalBERT · SHAP · PyMuPDF · Streamlit · Supabase · Azure | [![Live](https://img.shields.io/badge/Live-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://legal-ai-hub-vaishnavi-f0gpa6c6b5hrecbs.indiasouthcentral-01.azurewebsites.net/) |
+| 📄 [**DocuMind – RAG Q&A Assistant**](https://github.com/Bharambevaish/documind-rag) | Ask questions about your own PDFs, TXT or MD files. Answers come only from your documents, with a file and page citation for every fact | Python · ChromaDB · Groq / Ollama · Streamlit | [![Live](https://img.shields.io/badge/Live-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://documind-rag-gj29pautkaopcgeanv7cbh.streamlit.app/) |
+| 🎓 [**AuraEdu – Education Management Platform**](https://github.com/Bharambevaish/Aura-Edu) | All-in-one platform for coaching centres, schools and colleges: admissions, attendance, exams, fees and payroll across Academy, ERP and HRM modules | Web app · Vercel | [![Live](https://img.shields.io/badge/Live-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://aura-edu-eight.vercel.app/) |
+| 💊 [**Tammewar Pharmacy – Store Management**](https://github.com/Bharambevaish/Store-Management) | Store management web app for a pharmacy: products, stock and sales in one place | Web app · Cloudflare Pages | [![Live](https://img.shields.io/badge/Live-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://tammewar-pharmacy.pages.dev/) |
+| 🌾 [**Flour Mill Management System**](https://github.com/Bharambevaish/Flour-Mill-Management-System) | Bilingual (Marathi / English) order, payment and dues manager: customers track milling stage and balance, owners manage the queue, UPI/cash payments and daily accounts | Web app · PWA · Vercel | [![Live](https://img.shields.io/badge/Live-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://feed-mill-management-system.vercel.app/) |
+| 💳 [**Fintech Customer Segmentation**](https://github.com/Bharambevaish/Fintech-Customer-Segmentation) | Scores 10,000 bank customers on 7 value dimensions, clusters them into Standard / Silver / Gold / Premium and flags high-potential customers | Pandas · Scikit-learn (K-Means) · Seaborn · Excel | — |
+| 🛡️ [**Safe Linker – Phishing URL Detector**](https://github.com/Bharambevaish/Safe-Linker-Phishing-Detector) | Real-time phishing URL detection using a soft-voting ensemble of XGBoost and Random Forest over 15+ URL features | XGBoost · Random Forest · Streamlit | — |
 
 ---
 
@@ -91,3 +95,4 @@
 ## 🤝 Connect With Me
 
 💬 Happy to talk about **AI, RAG, data analytics** or campus projects. Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-bharambe-646783293/) or at **vaishnavibharambe99@gmail.com**.
+
